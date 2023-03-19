@@ -8,7 +8,7 @@ if is_key_present == true then
         print("Executed script!");
         notif:Notification("successful", "Key Valid", 5)
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/globalbankingelites/Scripts/main/ThugHub.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/globalbankingelites/Scripts/main/fake.lua'))()
     end
 
 else
